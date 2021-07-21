@@ -1,4 +1,4 @@
-### Hi there 👋
+### Aryan Mittal
 
 <!--
 **thearyanmittal/thearyanmittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### I'm currently working on:
+
+A machine learning model to be used during American football games that can help a defense predict what play an offense will run next based on pre-snap data (i.e. down, distance, hash, yard line, etc.)
+
+<hr>
+
+#### I'm currently learning about:
+- machine learning
+- statistics
+- data science
+- web development
+
+<hr>
+
+#### How to reach me:
+Email: thearyanmittal@gmail.com
+
+[Website](https://thearyanmittal.wixsite.com/portfolio/) | 
+[LinkedIn](https://www.linkedin.com/in/aryanmittal02/)
+
+<hr>
+
+#### Top Projects:
+
+<a href="https://github.com/thearyanmittal/news-aggregator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thearyanmittal&repo=news-aggregator&hide_border=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/thearyanmittal/facial-recognition">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thearyanmittal&repo=facial-recognition&hide_border=true&theme=tokyonight" />
+</a>
+
+#### My Stats:
+
+[![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=thearyanmittal&include_all_commits=true&show_icons=true&hide_border=true&theme=tokyonight)](https://www.linkedin.com/in/aryanmittal02/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thearyanmittal&layout=compact&card_width=445&hide_border=true&theme=tokyonight)](https://thearyanmittal.wixsite.com/portfolio)
