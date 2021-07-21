@@ -39,14 +39,14 @@ Email: thearyanmittal@gmail.com
 #### Top Projects:
 
 <a href="https://github.com/thearyanmittal/news-aggregator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thearyanmittal&repo=news-aggregator&hide_border=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thearyanmittal&repo=news-aggregator&hide_border=true&theme=github_dark" />
 </a>
 <a href="https://github.com/thearyanmittal/facial-recognition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thearyanmittal&repo=facial-recognition&hide_border=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thearyanmittal&repo=facial-recognition&hide_border=true&theme=github_dark" />
 </a>
 
 #### My Stats:
 
-[![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=thearyanmittal&include_all_commits=true&show_icons=true&hide_border=true&theme=tokyonight)](https://www.linkedin.com/in/aryanmittal02/)
+[![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=thearyanmittal&include_all_commits=true&show_icons=true&hide_border=true&theme=github_dark)](https://www.linkedin.com/in/aryanmittal02/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thearyanmittal&layout=compact&card_width=445&hide_border=true&theme=tokyonight)](https://thearyanmittal.wixsite.com/portfolio)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thearyanmittal&layout=compact&card_width=445&hide_border=true&theme=github_dark)](https://thearyanmittal.wixsite.com/portfolio)
