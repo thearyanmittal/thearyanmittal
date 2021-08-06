@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 #### I'm currently working on:
 
-A machine learning model to be used during American football games that can help a defense predict what play an offense will run next based on pre-snap data (i.e. down, distance, hash, yard line, etc.)
+- A machine learning model to be used during American football games that can help a defense predict what play an offense will run next based on pre-snap data (i.e. down, distance, hash, yard line, etc.)
+- A physics-based game that simulates the universe. Players' objective is to colonize the galaxy with humankind. Collaboration with @chinarjoshi and @jeffreycshelton.
 
 <hr>
 
