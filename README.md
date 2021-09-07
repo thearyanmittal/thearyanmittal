@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 Email: thearyanmittal@gmail.com
 
 [Website](https://thearyanmittal.wixsite.com/portfolio/) | 
-[LinkedIn](https://www.linkedin.com/in/aryanmittal02/)
+[LinkedIn](https://www.linkedin.com/in/thearyanmittal/)
 
 <hr>
 
