@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 - A machine learning model to be used during American football games that can help a defense predict what play an offense will run next based on pre-snap data (i.e. down, distance, hash, yard line, etc.)
 - A research project focusing on predicting COVID-19 case susceptibility and severity using blood test data. Collaboration with Clayton State University's Dr. Junfeng Qu.
+- A mathematical paper studying the optimal play of an original graph-theoretic game called "The Cordiality Game". Collaboration with Clayton State University's Dr. Elliot Krop.
 - A physics-based game that simulates the universe. Players' objective is to colonize the galaxy with humankind. Collaboration with @chinarjoshi and @jeffreycshelton.
 
 <hr>
