@@ -24,10 +24,9 @@ Here are some ideas to get you started:
 <hr>
 
 #### I'm currently learning about:
-- machine learning
-- statistics
-- data science
-- web development
+- data science, machine learning, and statistics
+- game theory
+- graph theory
 
 <hr>
 
