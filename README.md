@@ -31,18 +31,18 @@ Here are some ideas to get you started:
 #### How to reach me:
 Email: thearyanmittal@gmail.com
 
-[Website](https://thearyanmittal.wixsite.com/portfolio/) | 
+[Website](http://www.thearyanmittal.com/)) | 
 [LinkedIn](https://www.linkedin.com/in/thearyanmittal/)
 
 <hr>
 
 #### Top Projects:
 
-<a href="https://github.com/thearyanmittal/the-tank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thearyanmittal&repo=the-tank&hide_border=true&theme=github_dark" />
+<a href="https://github.com/thearyanmittal/atl-home-rentals">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thearyanmittal&repo=atl-home-rentals&hide_border=true&theme=github_dark" />
 </a>
-<a href="https://github.com/thearyanmittal/facial-recognition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thearyanmittal&repo=facial-recognition&hide_border=true&theme=github_dark" />
+<a href="https://github.com/thearyanmittal/news-aggregator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thearyanmittal&repo=news-aggregator&hide_border=true&theme=github_dark" />
 </a>
 
 #### My Stats:
