@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 #### I'm currently working on:
 
 - A mathematical paper studying the optimal play of an original graph-theoretic game called "The Cordiality Game". Collaboration with Dr. Elliot Krop (Clayton State University) and Michael Wigal (Georgia Tech).
-- A data science project concerning Atlanta home rental prices. Advised by Dr. Colton Magnant (UPS).
+- A sports analytics project aimed at developing a model to generate improved National Football League (NFL) team power rankings and predict playoff outcomes. Advised by Dr. Joel Sokol (Georgia Tech).
 
 <hr>
 
 #### I'm currently learning about:
 - data science
 - graph theory and combinatorics
-- computational complexity theory
+- game theory
 
 <hr>
 
