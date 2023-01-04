@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 #### How to reach me:
 Email: thearyanmittal@gmail.com
 
-[Website](http://www.thearyanmittal.com/)) | 
+[Website](http://www.thearyanmittal.com/) | 
 [LinkedIn](https://www.linkedin.com/in/thearyanmittal/)
 
 <hr>
