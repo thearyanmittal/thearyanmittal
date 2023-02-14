@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 Email: thearyanmittal@gmail.com
 
 [Website](http://www.thearyanmittal.com/) | 
-[LinkedIn](https://www.linkedin.com/in/thearyanmittal/)
+[LinkedIn](https://www.linkedin.com/in/thearyanmittal/) |
+[Devpost](https://devpost.com/thearyanmittal)
 
 <hr>
 
