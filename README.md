@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 <hr>
 
-#### I'm currently learning about:
-- data science
-- graph theory and combinatorics
-- game theory
+#### I'm currently learning:
+- [game theory](https://www.coursera.org/learn/game-theory-1)
+- R
+- [set theory](https://docs.ufpr.br/~hoefel/ensino/CM304_CompleMat_PE3/livros/Enderton_Elements%20of%20set%20theory_%281977%29.pdf) and [mathematical logic](https://builds.openlogicproject.org/courses/enderton/open-logic-enderton.pdf)
 
 <hr>
 
@@ -39,6 +39,9 @@ Email: thearyanmittal@gmail.com
 
 #### Top Projects:
 
+<a href="https://github.com/thearyanmittal/formulytics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thearyanmittal&repo=formulytics&hide_border=true&theme=github_dark" />
+</a>
 <a href="https://github.com/thearyanmittal/atl-home-rentals">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thearyanmittal&repo=atl-home-rentals&hide_border=true&theme=github_dark" />
 </a>
