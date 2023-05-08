@@ -14,6 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Top Projects:
+
+<a href="https://github.com/thearyanmittal/formulytics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thearyanmittal&repo=formulytics&hide_border=true&theme=github_dark" />
+</a>
+<a href="https://github.com/thearyanmittal/atl-home-rentals">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thearyanmittal&repo=atl-home-rentals&hide_border=true&theme=github_dark" />
+</a>
+<a href="https://github.com/thearyanmittal/news-aggregator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thearyanmittal&repo=news-aggregator&hide_border=true&theme=github_dark" />
+</a>
+
+<hr>
+
+#### How to reach me:
+Email: thearyanmittal@gmail.com
+
+[Website](http://www.thearyanmittal.com/) | 
+[LinkedIn](https://www.linkedin.com/in/thearyanmittal/) |
+[Devpost](https://devpost.com/thearyanmittal)
+
+<hr>
+
 #### I'm currently working on:
 
 - A mathematical paper studying the optimal play of an original graph-theoretic game called "The Cordiality Game". Collaboration with Dr. Elliot Krop (Clayton State University) and Michael Wigal (Georgia Tech).
@@ -27,27 +51,6 @@ Here are some ideas to get you started:
 - [set theory](https://docs.ufpr.br/~hoefel/ensino/CM304_CompleMat_PE3/livros/Enderton_Elements%20of%20set%20theory_%281977%29.pdf) and [mathematical logic](https://builds.openlogicproject.org/courses/enderton/open-logic-enderton.pdf)
 
 <hr>
-
-#### How to reach me:
-Email: thearyanmittal@gmail.com
-
-[Website](http://www.thearyanmittal.com/) | 
-[LinkedIn](https://www.linkedin.com/in/thearyanmittal/) |
-[Devpost](https://devpost.com/thearyanmittal)
-
-<hr>
-
-#### Top Projects:
-
-<a href="https://github.com/thearyanmittal/formulytics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thearyanmittal&repo=formulytics&hide_border=true&theme=github_dark" />
-</a>
-<a href="https://github.com/thearyanmittal/atl-home-rentals">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thearyanmittal&repo=atl-home-rentals&hide_border=true&theme=github_dark" />
-</a>
-<a href="https://github.com/thearyanmittal/news-aggregator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thearyanmittal&repo=news-aggregator&hide_border=true&theme=github_dark" />
-</a>
 
 #### My Stats:
 
