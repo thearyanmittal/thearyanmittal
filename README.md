@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 #### Top Projects:
 
 <a href="https://github.com/thearyanmittal/formulytics">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=thearyanmittal&repo=formulytics&hide_border=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-eight-amber-73.vercel.app/api/pin/?username=thearyanmittal&repo=formulytics&hide_border=true&theme=github_dark" />
 </a>
 <a href="https://github.com/thearyanmittal/atl-home-rentals">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=thearyanmittal&repo=atl-home-rentals&hide_border=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-eight-amber-73.vercel.app/api/pin/?username=thearyanmittal&repo=atl-home-rentals&hide_border=true&theme=github_dark" />
 </a>
 <a href="https://github.com/thearyanmittal/news-aggregator">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=thearyanmittal&repo=news-aggregator&hide_border=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-eight-amber-73.vercel.app/api/pin/?username=thearyanmittal&repo=news-aggregator&hide_border=true&theme=github_dark" />
 </a>
 
 <hr>
