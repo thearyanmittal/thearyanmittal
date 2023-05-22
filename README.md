@@ -40,8 +40,8 @@ Email: thearyanmittal@gmail.com
 
 #### I'm currently working on:
 
+- A sports analytics project aimed at developing a model to quantify the on-field chemistry between football players at both the college and NFL level. Advised by Dr. Joel Sokol (Georgia Tech).
 - A mathematical paper studying the optimal play of an original graph-theoretic game called "The Cordiality Game". Collaboration with Dr. Elliot Krop (Clayton State University) and Michael Wigal (Georgia Tech).
-- A sports analytics project aimed at developing a model to generate improved National Football League (NFL) team power rankings and predict playoff outcomes. Advised by Dr. Joel Sokol (Georgia Tech).
 
 <hr>
 
@@ -51,9 +51,3 @@ Email: thearyanmittal@gmail.com
 - [set theory](https://docs.ufpr.br/~hoefel/ensino/CM304_CompleMat_PE3/livros/Enderton_Elements%20of%20set%20theory_%281977%29.pdf) and [mathematical logic](https://builds.openlogicproject.org/courses/enderton/open-logic-enderton.pdf)
 
 <hr>
-
-#### My Stats:
-
-[![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=thearyanmittal&include_all_commits=true&show_icons=true&hide_border=true&theme=github_dark)](https://www.linkedin.com/in/aryanmittal02/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thearyanmittal&layout=compact&card_width=445&hide_border=true&theme=github_dark)](https://thearyanmittal.wixsite.com/portfolio)
