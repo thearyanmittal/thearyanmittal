@@ -40,6 +40,7 @@ Email: thearyanmittal@gmail.com
 
 #### I'm currently working on:
 
+- A data science project for an MLB team that uses optimization in an operational setting. Contracted by the MLB team and collaborating with Dr. Joel Sokol (Georgia Tech).
 - A sports analytics project aimed at developing a model to quantify the on-field chemistry between football players at both the college and NFL level. Advised by Dr. Joel Sokol (Georgia Tech).
 - A mathematical paper studying the optimal play of an original graph-theoretic game called "The Cordiality Game". Collaboration with Dr. Elliot Krop (Clayton State University) and Michael Wigal (Georgia Tech).
 
