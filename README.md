@@ -29,15 +29,16 @@ Here are some ideas to get you started:
 </a>
 
 <hr>
--->
+
 
 #### How to reach me:
-Email: thearyanmittal@gmail.com
+Website: [thearyanmittal.com](thearyanmittal.com)
 
-[Website](http://www.thearyanmittal.com/) | 
+[Email](mailto:thearyanmittal@gmail.com) | 
 [LinkedIn](https://www.linkedin.com/in/thearyanmittal/)
 
 <hr>
+-->
 
 #### I'm currently working on:
 
