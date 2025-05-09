@@ -49,6 +49,5 @@ Website: [thearyanmittal.com](thearyanmittal.com)
 
 #### I'm currently learning:
 - [game theory](https://www.coursera.org/learn/game-theory-1)
-- [set theory](https://docs.ufpr.br/~hoefel/ensino/CM304_CompleMat_PE3/livros/Enderton_Elements%20of%20set%20theory_%281977%29.pdf) and [mathematical logic](https://builds.openlogicproject.org/courses/enderton/open-logic-enderton.pdf)
-
-<hr>
+- [set theory](https://docs.ufpr.br/~hoefel/ensino/CM304_CompleMat_PE3/livros/Enderton_Elements%20of%20set%20theory_%281977%29.pdf)
+- [mathematical logic](https://builds.openlogicproject.org/courses/enderton/open-logic-enderton.pdf)
